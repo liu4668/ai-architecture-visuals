@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 建筑设计出图"
+  short_description: "生成十二类建筑分析图、过程图和展示效果图工作流"
+  default_prompt: "使用 $ai-architecture-visuals 根据我的建筑项目资料生成所需的建筑图像。"
